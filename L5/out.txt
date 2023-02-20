@@ -1,0 +1,13 @@
+Nimi;Arvo
+Leena;485
+Aino;391
+Anne;386
+Juhani;607
+Olavi;507
+Antero;617
+Kristiina;942
+Emilia;593
+Liisa;498
+Elina;489
+Sofia;498
+Tapani;605
